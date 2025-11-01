@@ -17,4 +17,4 @@
 
 # My Education & Certificates 🎓
 
-![Header Image1](images/header-image.png)
+![Header Image1](images/header-image001.png)
