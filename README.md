@@ -13,6 +13,9 @@
 </div>
 
 
+<div align="center">
+
+# My Education & Certificates 🎓 </span>
 
 ![Header Image](images/header-image.png)
 
