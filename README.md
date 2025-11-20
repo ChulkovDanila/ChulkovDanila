@@ -28,7 +28,8 @@ I bring ideas to life in the browser with React, TypeScript, and JavaScript, the
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
     ㅤ
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  
+
+  ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Header Image1](images/header-image001.png)
 
 A solid foundation in JavaScript, validated by a university degree from the International Institute for Personnel Retraining and a professional Full Stack Development certificate from MIT xPro.
