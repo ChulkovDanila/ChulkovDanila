@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=f7f7f7&center=true&vCenter=true&width=600&lines=22+years+old+%7C+Russia;FullStack+Developer" alt="Typing SVG" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChulkovDanila&theme=swift&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChulkovDanila&theme=swift&show_icons=false)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=f7f7f7&center=true&vCenter=true&width=600&lines=Always+Evolving;Journey+to+Mastery;Never+Stop+Learning" alt="Typing SVG" />
